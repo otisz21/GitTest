@@ -1,0 +1,3 @@
+Fájl ami hozzáad egy új funkcionalitást.
+Második sor.
+Harmadik sor.
